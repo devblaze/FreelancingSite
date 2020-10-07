@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1321fdda-085d-4655-b342-cbffd33602da" name="HomeServer" url="http://192.168.1.1/Projects/FreelancingSite/public/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="40aa718e-3d7b-4a52-b749-06fa851061a4" name="HomeServer2" url="http://192.168.1.1/Projects/FreelancingSite/public/">
+        <fileTransfer port="0" mountedRoot="X:\Projects\FreelancingSite\public" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
